@@ -11,4 +11,4 @@ Project-2
 2. Create new database titled "crowdfunding_db"
 3. Select the "Query Tool" from the table section (right click on the table section).
 4. Open the "crowdfunding_db_schema.sql", the provided ERD, and run the script create a table schema for the four CSV files.
-5. To import the data, right click on a table and select Import/Export Data. When importing table content to the database, import the .csv files in this order: category, contacts, subcategoy, and then campaign.
+5. To import the data, right click on a table and select Import/Export Data. When importing table content to the database, import the .csv files in this order: categories, contacts, subcategories, and then campaign.
